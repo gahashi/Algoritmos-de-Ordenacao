@@ -33,6 +33,11 @@ void quickSort(int v[], int esq, int dir)
     }
 }
 
+void quickSortWrapper(int v[], int tam)
+{
+    quickSort(v, 0, tam - 1);
+}
+
 void insertionSort(int vetor[], int tam)
 {
     int chave, i;
@@ -140,4 +145,29 @@ void mergeSort(int v[], int comeco, int fim)
     mergeSort(v, meio + 1, fim);
 
     mesclar(v, comeco, meio, fim);
+}
+
+// Função para realizar Shell Sort
+void shellSort(int vetor[], int tam)
+{
+    // Inicializa o intervalo (gap)
+    for (int gap = tam / 2; gap > 0; gap /= 2)
+    {
+        // Realiza uma ordenação por inserção para esse intervalo
+        for (int i = gap; i < tam; i++)
+        {
+            int temp = vetor[i];
+            int j;
+            for (j = i; j >= gap && vetor[j - gap] > temp; j -= gap)
+            {
+                vetor[j] = vetor[j - gap];
+            }
+            vetor[j] = temp;
+        }
+    }
+}
+
+void mergeSortWrapper(int v[], int tam)
+{
+    mergeSort(v, 0, tam - 1);
 }

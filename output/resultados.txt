@@ -1,0 +1,140 @@
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: QuickSort
+Quantidade de testes: 4
+Media de tempo: 0.0112046 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: QuickSort
+Quantidade de testes: 5
+Media de tempo: 0.011341 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: QuickSort
+Quantidade de testes: 5
+Media de tempo: 0.0035048 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: InsertionSort
+Quantidade de testes: 5
+Media de tempo: 6.47394 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: InsertionSort
+Quantidade de testes: 5
+Media de tempo: 12.2346 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: SelectionSort
+Quantidade de testes: 5
+Media de tempo: 10.7319 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: QuickSort
+Quantidade de testes: 1
+Media de tempo: 0.012193 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: QuickSort
+Quantidade de testes: 1
+Media de tempo: 0.00499988 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: InsertionSort
+Quantidade de testes: 1
+Media de tempo: 6.55465 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: InsertionSort
+Quantidade de testes: 1
+Media de tempo: 12.3977 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: SelectionSort
+Quantidade de testes: 1
+Media de tempo: 11.048 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: SelectionSort
+Quantidade de testes: 1
+Media de tempo: 10.6582 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: BubbleSortPlus
+Quantidade de testes: 1
+Media de tempo: 28.8445 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: BubbleSortPlus
+Quantidade de testes: 1
+Media de tempo: 19.376 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: MergeSort
+Quantidade de testes: 1
+Media de tempo: 0.029552 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: MergeSort
+Quantidade de testes: 1
+Media de tempo: 0.0198791 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: ShellSort
+Quantidade de testes: 1
+Media de tempo: 0.00699878 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: QuickSort
+Quantidade de testes: 4
+Media de tempo: 0.0119382 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: QuickSort
+Quantidade de testes: 4
+Media de tempo: 0.00400734 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: InsertionSort
+Quantidade de testes: 4
+Media de tempo: 6.52572 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: InsertionSort
+Quantidade de testes: 4
+Media de tempo: 12.5482 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: SelectionSort
+Quantidade de testes: 4
+Media de tempo: 10.7139 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: SelectionSort
+Quantidade de testes: 4
+Media de tempo: 10.7985 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: BubbleSortPlus
+Quantidade de testes: 4
+Media de tempo: 29.839 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: BubbleSortPlus
+Quantidade de testes: 4
+Media de tempo: 26.9096 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Aleatorio
+Algoritmo de ordenacao: MergeSort
+Quantidade de testes: 4
+Media de tempo: 0.0952348 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: MergeSort
+Quantidade de testes: 4
+Media de tempo: 0.050088 segundos
+------------------------------------------------------------
+Tipo de preenchimento do vetor: Pior caso
+Algoritmo de ordenacao: ShellSort
+Quantidade de testes: 4
+Media de tempo: 0.0219551 segundos
+------------------------------------------------------------
